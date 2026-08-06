@@ -1,12 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Miroslav Košek
 ======================================================================================================================================
 
-Web Developer & Programmer
+Software engineer — .NET & Python backends, Angular frontends, LLM apps over company data. Applied informatics @ TUL Liberec.
 --------------------------
 
 * 🌍  I'm based in Liberec, Czech Republic
 * ✉️  You can contact me at [mira-kosek@seznam.cz](mailto:mira-kosek@seznam.cz)
-* 🧠  I'm learning Angular, TypeScript, React, Next.js
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
