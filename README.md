@@ -6,7 +6,7 @@ graduating June 2027. Based in Liberec, Czechia.
 
 I have worked alongside my studies since 2021 and currently split my week between
 three companies: [Ansuz](https://ansuz.cz/) (Helios ERP plugins, AI, OCR),
-K M B systems (.NET software for power quality archives) and NET-SYSTEM (web apps).
+[K M B systems](https://kmb.cz/) (.NET software for power quality archives) and [NET-SYSTEM](https://netsystem.cz/) (web apps).
 
 ### What I am building
 
