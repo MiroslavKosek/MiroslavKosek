@@ -33,4 +33,4 @@ MS SQL · PostgreSQL · TimescaleDB · QuestDB · MongoDB · Qdrant · Redis
 
 ### Elsewhere
 
-[LinkedIn](https://linkedin.com/in/miroslav-kosek) · mira-kosek@seznam.cz
+[LinkedIn](https://linkedin.com/in/miroslav-kosek) · [ORCID](https://orcid.org/0009-0006-7578-0568) · mira-kosek@seznam.cz
