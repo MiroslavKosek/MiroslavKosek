@@ -18,8 +18,7 @@ introspection to stop invented numbers. Read-only MS SQL with a table allow-list
 
 **Plugin data layer for time-series archives** (bachelor's thesis) — .NET 10 connectors
 for QuestDB + PostgreSQL, TimescaleDB, and MongoDB behind one legacy contract, wrapped in
-caching and metrics decorators. Benchmarked over 740 runs on a workstation and a
-Raspberry Pi, data volumes up to 104 GB.
+caching and metrics decorators. Benchmarked over 740 runs on a workstation.
 
 **Shop-floor documentation terminal** — .NET 10 MAUI touch app rendering two PDFs side
 by side through PDFium and SkiaSharp, off the UI thread, icon-only and bilingual.
